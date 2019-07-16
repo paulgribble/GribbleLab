@@ -433,8 +433,7 @@ here to help.
 
 # Attribution
 
-Portions of the faq have been adapted from materials posted on twitter
-by @jenheemstra and others.
+Portions of the FAQ have been adapted from materials posted on twitter
+by @jenheemstra, @PaulMinda1, @jpeele, @mariam_s_aly, and others.
 
 ---Paul
-
