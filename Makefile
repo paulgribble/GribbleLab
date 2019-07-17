@@ -5,6 +5,7 @@ faq.pdf:	faq.md
 	-V fontfamily=mathpazo \
 	-V linestretch=1.05 \
 	-V geometry:margin=1.0in \
+	--template=faq_latex.tex \
 	faq.md -o faq.pdf
 
 faq.html:	faq.md
