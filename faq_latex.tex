@@ -391,8 +391,15 @@ $if(logo)$
 $endif$
 $endif$
 
+% PLG
 \usepackage[titles]{tocloft}
-\setlength{\cftbeforesecskip}{3pt}
+\setlength{\cftbeforesecskip}{1.0ex}
+\setlength{\cftsecnumwidth}{2.5em}
+\renewcommand{\cftsecaftersnum}{.}%
+
+\usepackage{titlesec}
+\titlelabel{\thetitle.\quad}
+% /PLG
 
 \begin{document}
 $if(has-frontmatter)$

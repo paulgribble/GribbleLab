@@ -88,7 +88,6 @@ pre.src {
     padding-top: 30px; 
 }
 
-/*
 .toc-section-number:after {
     content: ".";
 }
@@ -96,5 +95,4 @@ pre.src {
 .header-section-number:after {
     content: ".";
 }
-*/
 
