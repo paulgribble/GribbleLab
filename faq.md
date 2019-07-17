@@ -9,11 +9,11 @@ date: July 17, 2019
 - My office is WIRB 4122. Our lab rooms are WIRB 3141, 3133, and 2108
 - My office phone is (519) 661-2111 x82237
 - The lab phone (located in WIRB 3141) is (519) 661-2111 x86185
-- Denise Soanes <dsoanes4@uwo.ca> Receptionist WIRB 3190; x86057
-- Florence Lourdes <flourdes@uwo.ca> Administrative Officer WIRB 3184;
+- Denise Soanes : <dsoanes4@uwo.ca> : Receptionist : WIRB 3190; x86057
+- Florence Lourdes : <flourdes@uwo.ca> : Administrative Officer : WIRB 3184;
   x82069
-- Haitao Yang <htyang@uwo.ca> System Administrator WIRB 3176; x82736
-- Derek Quinlan <dquinla4@uwo.ca> Technical Staff WIRB 3178; x87988
+- Haitao Yang : <htyang@uwo.ca> : System Administrator : WIRB 3176; x82736
+- Derek Quinlan : <dquinla4@uwo.ca> : Technical Staff : WIRB 3178; x87988
 
 # Lab Culture
 
