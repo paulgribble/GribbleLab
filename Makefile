@@ -1,7 +1,8 @@
 all:	faq.pdf faq.html
 
 faq.pdf:	faq.md
-	pandoc -N -s --toc \
+	pandoc -N -s \
+	--toc --toc-depth=1 \
 	-V fontfamily=mathpazo \
 	-V linestretch=1.05 \
 	-V geometry:margin=1.0in \
@@ -9,7 +10,8 @@ faq.pdf:	faq.md
 	faq.md -o faq.pdf
 
 faq.html:	faq.md
-	pandoc -N -s --toc \
+	pandoc -N -s \
+	--toc --toc-depth=1 \
 	--css faq.css \
 	faq.md -o faq.html
 
