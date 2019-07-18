@@ -44,27 +44,27 @@ If I email you on nights/weekends/holidays, I do not expect you to respond strai
 
 # Expectations
 
-xxx
+*coming soon*
 
 ## Undergraduate thesis students
 
-xxx
+*in progress...*
 
 ## Masters students
 
-xxx
+*in progress...*
 
 ## PhD students
 
-xxx
+*in progress...*
 
 ## Postdoctoral fellows
 
-xxx
+*in progress...*
 
 ## Research Assistants
 
-xxx
+*in progress...*
 
 # Need Help?
 
