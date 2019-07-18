@@ -96,3 +96,15 @@ pre.src {
     content: ".";
 }
 
+.header img {
+  float: right;
+  height: 28pt;
+  width: auto;
+}
+
+.header h1 {
+  position: relative;
+  top: 18pt;
+  left: 10pt;
+}
+
