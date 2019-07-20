@@ -54,9 +54,16 @@ If you do not regard your research project as your own, you will not be excited 
 
 I have a job. I have a PhD. You are not doing your research for me. (Note that in some labs, trainees are hired specifically to work on particular projects that appear in funded research grants. This is not my approach.) Sure, I have a general research program in my lab that is supported by research grants that contain proposals about particular experiments... but my approach is that as long as the research is in the same general realm and as long as we both find it exciting and relevant, I will support it.
 
+More general expectations:
+
+- come to me if you are not sure what you should be doing day to day
+- let me know if you are concerned about the progress of your project
+- come to me often with data; show me plots; show me the signals; get feedback from me and others about how the project is progressing
+- look at your data often, in particular to make sure that the various signals (kinematics, forces, EMG, EEG, etc) look as they should, and to make sure that participants are performing the task as we require.
+
 ## Undergraduate thesis students
 
-*in progress...*
+You have 8 months to complete a research project and produce a thesis. This is not a lot of time. When you first arrive in the lab we will work together to decide on a focused, feasible research project that is of mutual interest to us both. You may be paired with a graduate student or postdoctoral fellow in the lab, or you may be paired with me! It depends on the project.
 
 ## Masters students
 
