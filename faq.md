@@ -48,6 +48,8 @@ My expectations of you and your expectations of me will vary depending on your r
 
 A general principle I would like to encourage and foster, is an approach whereby we all develop our mentoring skills with each other. We all have unique knowledge, experience, and skills that may well be of value to others. If we are all open to helping each other, and open to being helped *by* each other, that will help us to our best scientific work and will contribute to a positive, supportive, and exciting research environment.
 
+Another general principle is that you should take ownership of your research project. You take the steering wheel and you drive the bus. As a supervisor I may give you advice, or suggest you go in certain directions and not others (back-seat driver?) but ultimately you must take charge of the destiny of your research project. This is critically important. I have a job. I have a PhD. You are not doing your research for me. (Note that in some labs, trainees are hired specifically to work on particular projects that appear in funded research grants. This is not my approach.) Sure, I have a general research program in my lab that is supported by research grants that contain proposals about particular experiments... but my approach is that as long as the research is in the same general realm and as long as we both find it exciting and relevant, I will support it. If you do not regard your research project as your own, you will not be excited about it, and it will not be a fun time. We will work together to develop research projects that are of mutual interest to us both. This is very important to me.
+
 ## Undergraduate thesis students
 
 *in progress...*
