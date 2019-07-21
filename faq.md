@@ -4,6 +4,11 @@ author: Paul Gribble
 date: July 17, 2019
 ---
 
+# FAQ
+
+- This FAQ can be found at: [https://www.gribblelab.org/faq.html](https://www.gribblelab.org/faq.html)
+- A .pdf version can be downloaded from: [https://www.gribblelab.org/faq.pdf](https://www.gribblelab.org/faq.pdf)
+
 # Contact Information
 
 - My office is WIRB 4122. Our lab rooms are WIRB 3141, 3133, and 2108
@@ -46,7 +51,12 @@ If I email you on nights/weekends/holidays, I do not expect you to respond strai
 
 My expectations of you and your expectations of me will vary depending on your role in the lab and your prior experience and skills. You will also find that expectations change as time goes on and you gain more experience in the lab.
 
+## Mentoring
+
 A general principle I would like to encourage and foster, is an approach whereby we all develop our mentoring skills with each other. We all have unique knowledge, experience, and skills that may well be of value to others. If we are all open to helping each other, and open to being helped *by* each other, that will help us to our best scientific work and will contribute to a positive, supportive, and exciting research environment.
+
+
+## Drive your research project
 
 Another general principle is that you should take ownership of your research project. You take the steering wheel and you drive the bus. As a supervisor I may give you advice, or suggest you go in certain directions and not others (back-seat driver?) but ultimately you must take charge of the destiny of your research project. This is critically important. Depending on the project, your experience, and your personal style, I may offer more or less suggestions/nudges. I will do my best to respect your own research interests while at the same time ensuring that the research project is likely to succeed.
 
@@ -54,7 +64,7 @@ If you do not regard your research project as your own, you will not be excited 
 
 I have a job. I have a PhD. You are not doing your research for me. (Note that in some labs, trainees are hired specifically to work on particular projects that appear in funded research grants. This is not my approach.) Sure, I have a general research program in my lab that is supported by research grants that contain proposals about particular experiments... but my approach is that as long as the research is in the same general realm and as long as we both find it exciting and relevant, I will support it.
 
-More general expectations:
+## General expectations
 
 - come to me if you are not sure what you should be doing day to day
 - let me know if you are concerned about the progress of your project
@@ -64,6 +74,10 @@ More general expectations:
 ## Undergraduate thesis students
 
 You have 8 months to complete a research project and produce a thesis. This is not a lot of time. When you first arrive in the lab we will work together to decide on a focused, feasible research project that is of mutual interest to us both. You may be paired with a graduate student or postdoctoral fellow in the lab, or you may be paired with me! It depends on the project.
+
+You are expected to meet with me regularly, ideally at least once a week, to review progress. This is our chance together to make sure that your project is progressing and that you will be able to complete it successfully. I am here to help. Ideally at the beginning of term we will schedule a recurring weekly meeting time (e.g. an hour on Friday) so that we always have that time set aside.
+
+You are also expected to take advantage of the knowledge and experience of your fellow lab members: graduate students and postdoctoral fellows. We are all here to help each other learn. We are all busy but part of my lab culture is to foster collaboration and mentoring so please do not hesitate to approach fellow lab members for help. We are not here to do your research or solve your research-related problems but we can and should be able to show you where to look for solutions.
 
 ## Masters students
 
@@ -79,7 +93,7 @@ You have 8 months to complete a research project and produce a thesis. This is n
 
 ## Research Assistants
 
-*in progress...*
+As an employee of the lab your role is to perform whatever duties I have assigned to you. Sometimes this will involve working with other lab members, helping them with their research projects. My role is to make sure that your duties are well defined and that you have the resources you need to carry out your work. While your duties might involve working with other lab members, ultimately you report to me. I regard working as an RA in my lab as an opportunity to learn new research-related skills in a supportive and friendly environment. If you find that every minute of the day is not occupied by the tasks I've assigned to you, please feel free to spend that time exploring your research-related interests (within reason). As a heuristic, if around 20% of your time is spent this way that is OK by me. Please come to me whenever you have questions or concerns about your work in the lab.
 
 # Need Help?
 
