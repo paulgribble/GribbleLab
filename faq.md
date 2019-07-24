@@ -66,12 +66,14 @@ I have a job. I already have a MSc and a PhD. You are not doing your research fo
 ## General expectations
 
 I expect you to:
+
 - please come to me if you are not sure what you should be doing day to day.
 - do let me know if you are concerned about the progress of your project.
 - please come to me often with data; show me plots; show me the signals; get feedback from me and others about how the project is progressing.
 - you should look at your data often, in particular to make sure that the various signals (kinematics, forces, EMG, EEG, etc) look as they should, and to make sure that participants are performing the task as we require.
 
 You should expect me to:
+
 - make myself available to you at regular intervals (e.g. at *least* once a week) to look at data, talk about your experiment, talk about papers in the literature, etc.
 - provide critical feedback of your research in a supportive manner.
 - do my best to support your work by seeking out research grants to run the lab.
