@@ -96,6 +96,8 @@ Often a novel scientific question involves the development of novel techniques o
 
 As a graduate student you are in charge of seeing your research project through to completion. I am here to guide you and to help. The more we interact the more likely you are to stay on track. It is your responsibility to ensure that this happens. I am here to help.
 
+You are responsible for applying for funding to support your salary (e.g. OGS, NSERC, CIHR, etc). In the absence of external awards I will support you using funds from my research grants, providing that you take on teaching assistant positions (as applicable) to partially offset the funds required.
+
 ## PhD students
 
 You have 4 years to complete a PhD thesis and to complete whatever coursework is required for your PhD program. A PhD thesis is typically composed of 5 or more chapters. Chapter 1 is a general introduction---a literature review in the context of your thesis topic. Chapters 2, 3 and 4 are individual experiments. Typically each of them are published papers (or papers to be published). Chapter 5 is a general discussion in which you synthesize the results of your experiments and discuss the implications in the context of the existing literature. Depending on the nature of the experiments, sometimes 2 inner chapters is acceptable (but not typically). More than 3 is OK but that is pushing the limits of the patience of your dissertation examiners.
@@ -106,6 +108,8 @@ As a PhD student, you will rapidly learn to become independent in the lab. As wi
 
 You **must** pursue research questions that interest and excite **you**. Do not make it a goal to think up questions you think I will like, or hypotheses you think the bigshots in the field will like, or experiments that you think can be published in Nature or Science or some other glam journal. This is a recipe for disaster. The motivation for pursuing your PhD research must come from within, not from me, or from anyone else. This is absolutely critical. A PhD is a lengthy process that involves many ups and downs. You must be motivated from within and one of the best ways this can happen is if you are pursuing scientific questions that excite you. I can certainly help you navigate the literature and the scientific landscape, and give you feedback about your ideas. We can work together to develop your own ideas but they must be your own.
 
+You are responsible for applying for funding to support your salary (e.g. OGS, NSERC, CIHR, etc). In the absence of external awards I will support you using funds from my research grants, providing that you take on teaching assistant positions (as applicable) to partially offset the funds required.
+
 ## Postdoctoral fellows
 
 You will typically have up to a 2 year contract providing salary and benefits during which time your job is to pursue original scientific research, in service of getting a job, either in academia or in the private sector. As a postdoc you are expected to be independent in the lab. There are many scientific and technical resources to draw upon and I am here to help.
@@ -113,6 +117,8 @@ You will typically have up to a 2 year contract providing salary and benefits du
 I will support the pursuit of any scientific questions that are of mutual interest to us both. Your research is your own and you may take it with you when you leave, and continue to pursue it.
 
 As a postdoc you should embrace the opportunity to take on a mentorship role within our lab and within the Brain and Mind Institute more generally.
+
+You are responsible for applying for funding to support your salary (e.g. OGS, NSERC, CIHR, etc). Typically an initial contract is for 2 years of support from my research grants. In some circumstances this may be extended but this is highly dependent on circumstance.
 
 ## Research Assistants
 
