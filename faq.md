@@ -55,21 +55,28 @@ My expectations of you and your expectations of me will vary depending on your r
 
 A general principle I would like to encourage and foster, is an approach whereby we all develop our mentoring skills with each other. We all have unique knowledge, experience, and skills that may well be of value to others. If we are all open to helping each other, and open to being helped *by* each other, that will help us to our best scientific work and will contribute to a positive, supportive, and exciting research environment.
 
-
 ## Drive your research project
 
-Another general principle is that you should take ownership of your research project. You take the steering wheel and you drive the bus. As a supervisor I may give you advice, or suggest you go in certain directions and not others (back-seat driver?) but ultimately you must take charge of the destiny of your research project. This is critically important. Depending on the project, your experience, and your personal style, I may offer more or less suggestions/nudges. I will do my best to respect your own research interests while at the same time ensuring that the research project is likely to succeed.
+Another general principle is that you should take ownership of your research project. You take the steering wheel and you drive the bus. As a supervisor I may give you advice, or suggest you go in certain directions and not others (back-seat driver?) but ultimately you must take charge of the destiny of your research project and more generally of the destiny of your own personal journey in graduate school. This is critically important. Depending on the project, your experience, and your personal style, I may offer more or fewer suggestions/nudges. I will do my best to respect your own research interests while at the same time ensuring that the research project is likely to succeed.
 
 If you do not regard your research project as your own, you will not be excited about it, and it will not be a fun time. We will work together to develop research projects that are of mutual interest to us both. This is very important to me.
 
-I have a job. I have a PhD. You are not doing your research for me. (Note that in some labs, trainees are hired specifically to work on particular projects that appear in funded research grants. This is not my approach.) Sure, I have a general research program in my lab that is supported by research grants that contain proposals about particular experiments... but my approach is that as long as the research is in the same general realm and as long as we both find it exciting and relevant, I will support it.
+I have a job. I already have a MSc and a PhD. You are not doing your research for me. (Note that in some labs, trainees are hired specifically to work on particular projects that appear in funded research grants. This is not my approach.) Sure, I have a general research program in my lab that is supported by research grants that contain proposals about particular experiments... but my approach is that as long as the research is in the same general realm and as long as we both find it exciting and relevant, I will support it and I will support you.
 
 ## General expectations
 
-- come to me if you are not sure what you should be doing day to day
-- let me know if you are concerned about the progress of your project
-- come to me often with data; show me plots; show me the signals; get feedback from me and others about how the project is progressing
-- look at your data often, in particular to make sure that the various signals (kinematics, forces, EMG, EEG, etc) look as they should, and to make sure that participants are performing the task as we require.
+I expect you to:
+- please come to me if you are not sure what you should be doing day to day.
+- do let me know if you are concerned about the progress of your project.
+- please come to me often with data; show me plots; show me the signals; get feedback from me and others about how the project is progressing.
+- you should look at your data often, in particular to make sure that the various signals (kinematics, forces, EMG, EEG, etc) look as they should, and to make sure that participants are performing the task as we require.
+
+You should expect me to:
+- make myself available to you at regular intervals (e.g. at *least* once a week) to look at data, talk about your experiment, talk about papers in the literature, etc.
+- provide critical feedback of your research in a supportive manner.
+- do my best to support your work by seeking out research grants to run the lab.
+- support your travel to conferences to present your research.
+- do my best to promote a positive, supportive, collaborative research environment in the lab.
 
 ## Undergraduate thesis students
 
@@ -81,15 +88,27 @@ You are also expected to take advantage of the knowledge and experience of your 
 
 ## Masters students
 
-*in progress...*
+You have 2 years to complete a research project and produce a thesis, and also to complete whatever coursework is required for your MSc degree. Your research project should be something that is publishable no matter how the results turn out. We will work together to come up with a project that fits the bill. A MSc thesis typically involves a single scientific question and a single study (sometimes composed of 2 or 3 small experiments) designed to test a specific hypothesis. The scientific question ought to be novel in the context of the existing literature, hence the publishability.
+
+Often a novel scientific question involves the development of novel techniques or experimental paradigms. You will take the lead here. We have many sources of technical help and experience both within the lab (including me) but also in the Brain and Mind Institute more generally. You will learn to draw on these sources of assistance to implement your experiments the way you want them implemented. Ours is not a "plug and play" kind of a lab. The most interesting scientific questions do not have a pre-canned solution.
+
+As a graduate student you are in charge of seeing your research project through to completion. I am here to guide you and to help. The more we interact the more likely you are to stay on track. It is your responsibility to ensure that this happens. I am here to help.
 
 ## PhD students
 
-*in progress...*
+You have 4 years to complete a PhD thesis and to complete whatever coursework is required for your PhD program. A PhD thesis is typically composed of 5 or more chapters. Chapter 1 is a general introduction---a literature review in the context of your thesis topic. Chapters 2, 3 and 4 are individual experiments. Typically each of them are published papers (or papers to be published). Chapter 5 is a general discussion in which you synthesize the results of your experiments and discuss the implications in the context of the existing literature. Depending on the nature of the experiments, sometimes 2 inner chapters is acceptable (but not typically). More than 3 is OK but that is pushing the limits of the patience of your dissertation examiners.
+
+We will work together when you start to develop a general scientific question or hypothesis that guides the subsequent development of individual experiments. The general scientific question ought to be novel in the context of the existing scientific literature. Each individual study should be publishable in principle. Sometimes Chapter 1 also turns out to be publishable in the form of a review article.
+
+As a PhD student, you will rapidly learn to become independent in the lab. As with MSc students, you will be primarily responsible for drawing on technical and scientific assistance within the lab and across the Brain and Mind Institute in order to implement the experimental paradigms that you want to use to test your scientific ideas. I am here to help and to guide this process but you are in charge of your research project. You will learn to become independent in the lab so that by the middle of your PhD you will be coming to me with new ideas, new pilot data, and the results of tinkering in the lab, looking for your next interesting scientific question. I am not here to serve up scientific questions (though I have many I love talking about!). You **must** pursue research questions that interest and excite you. The motivation for pursuing your PhD research must come from within, not from me, or from anyone else. This is critical.
 
 ## Postdoctoral fellows
 
-*in progress...*
+You will typically have up to a 2 year contract providing salary and benefits during which time your job is to pursue original scientific research, in service of getting a job, either in academia or in the private sector. As a postdoc you are expected to be independent in the lab. There are many scientific and technical resources to draw upon and I am here to help.
+
+I will support the pursuit of any scientific questions that are of mutual interest to us both. Your research is your own and you may take it with you when you leave, and continue to pursue it.
+
+As a postdoc you should embrace the opportunity to take on a mentorship role within our lab and within the Brain and Mind Institute more generally.
 
 ## Research Assistants
 
