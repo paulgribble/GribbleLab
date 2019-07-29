@@ -52,7 +52,7 @@ My expectations of you and your expectations of me will vary depending on your r
 
 ## Mentoring
 
-A general principle I would like to encourage and foster, is an approach whereby we all develop our mentoring skills with each other. We all have unique knowledge, experience, and skills that may well be of value to others. If we are all open to helping each other, and open to being helped *by* each other, that will help us to our best scientific work and will contribute to a positive, supportive, and exciting research environment.
+A general principle I would like to encourage and foster, is an approach whereby we all develop our mentoring skills with each other. We all have unique knowledge, experience, and skills that may well be of value to others. If we are all open to helping each other, and open to being helped *by* each other, that will help us do our best scientific work and will contribute to a positive, supportive, and exciting research environment.
 
 ## Drive your research project
 
