@@ -218,6 +218,6 @@ If there is anything you need to know please get in touch with me, I'm here to h
 
 # Acknowledgements
 
-Portions of the FAQ have been adapted from materials posted on twitter by @jenheemstra, @PaulMinda1, @jpeele, @mariam_s_aly, and others.
+Portions of the FAQ have been adapted from materials posted on twitter by [\@jenheemstra](https://twitter.com/jenheemstra), [\@PaulMinda1](https://twitter.com/PaulMinda1), [\@jpeele](https://twitter.com/jpeele), [\@mariam_s_aly](https://twitter.com/mariam_s_aly), and others.
 
 ---Paul
