@@ -6,8 +6,7 @@ date: July 29, 2019
 
 # FAQ
 
-- This FAQ can be found at: [https://www.gribblelab.org/faq.html](https://www.gribblelab.org/faq.html)
-- A .pdf version can be downloaded from: [https://www.gribblelab.org/faq.pdf](https://www.gribblelab.org/faq.pdf)
+This FAQ can be found at: [https://www.gribblelab.org/faq.html](https://www.gribblelab.org/faq.html). A .pdf version can be downloaded from: [https://www.gribblelab.org/faq.pdf](https://www.gribblelab.org/faq.pdf)
 
 # Contact Information
 
@@ -67,20 +66,9 @@ I have a job. I already have a MSc and a PhD. You are not doing your research fo
 
 ## General expectations
 
-I expect you to:
+**I expect you** to please come to me if you are not sure what you should be doing day to day. Let me know if you are concerned about the progress of your project. Please come to me often with data. Show me plots. Show me sample signals. Get feedback from me and others about how the project is progressing. You should look at your data often, in particular to make sure that the various signals (kinematics, forces, EMG, EEG, etc) look as they should, and to make sure that participants are performing the task as we require.
 
-- please come to me if you are not sure what you should be doing day to day.
-- do let me know if you are concerned about the progress of your project.
-- please come to me often with data; show me plots; show me the signals; get feedback from me and others about how the project is progressing.
-- you should look at your data often, in particular to make sure that the various signals (kinematics, forces, EMG, EEG, etc) look as they should, and to make sure that participants are performing the task as we require.
-
-You should expect me to:
-
-- make myself available to you at regular intervals (e.g. at *least* once a week) to look at data, talk about your experiment, talk about papers in the literature, etc.
-- provide critical feedback of your research in a supportive manner.
-- do my best to support your work by seeking out research grants to run the lab.
-- support your travel to conferences to present your research.
-- do my best to promote a positive, supportive, collaborative research environment in the lab.
+**You should expect me** to make myself available to you at regular intervals (e.g. at *least* once a week) to look at data, talk about your experiment, talk about papers in the literature, etc. You can expect me to provide critical feedback of your research in a supportive manner. I will do my best to support your work by seeking out research grants to run the lab. I will support your travel to conferences to present your research. You can expect me to do my best to promote a positive, supportive, collaborative research environment in the lab.
 
 ## Undergraduate thesis students
 
@@ -180,76 +168,49 @@ While you're waiting for feedback, don't stop working on your document!  When yo
 
 # Lab Rooms
 
-- lab rooms are booked using a Google Calendar. Contact me to get an invitation
-- for urgent matters or emergencies related to facilities (e.g. a water leak) please contact me and/or Florence, Denise, or Haitao right away
-- if there is smoke or a fire, leave the building, pull a fire alarm if you pass one on the way out, and phone 911 immediately
-- if there is a medical emergency, phone 911 immediately
-- if there is a security incident, leave the area first and then and phone 911 immediately
+Lab rooms are booked using a Google Calendar. Contact me to get an invitation.
+
+For urgent matters or emergencies related to facilities (e.g. a water leak) please contact me and/or Florence, Denise, or Haitao right away.
+
+**If there is smoke or a fire**, leave the building, pull a fire alarm if you pass one on the way out, and phone 911 immediately. **If there is a medical emergency, phone 911 immediately**. If you are concerned that some kind of **serious security incident** is occurring, leave the area first and then and phone 911 immediately.
 
 # Contacting Me
 
-- During the regular term I am generally around all the time and available to chat. If I'm not in my office, get in touch on Slack or on email
-- If you would like to talk for more than a couple of minutes, please schedule a time with me
-- My response time on Slack and on email is generally very fast, although on weekends and outside of work hours (i.e. between 5:00 pm and 9:00 am) it can be slower
-- During weekends and holidays I am not on campus. During these times I'm available electronically but my repsonse time may be slow. For anything urgent please don't hesitate to contact me including on my mobile phone number, which you can ask me for.
-- During the summer when my kids are home from school (mid-June through August) I will not be in the lab all day every day. Some days I will be in for a while and other days I may not be, depending on my kids' schedule. I am available electronically so please get in touch when you need to. I will do my best in the summer months to set up regular meetings, either in person or electronically, so that we can together make sure your work is progressing.
+During the regular term I am generally around all the time and available to chat. If I'm not in my office, get in touch on Slack or on email. If you would like to talk for more than a couple of minutes, please schedule a time with me. My response time on Slack and on email is generally very fast, although on weekends and outside of work hours (i.e. between 5:00 pm and 9:00 am) it can be slower. During weekends and holidays I am not on campus. During these times I'm available electronically but my repsonse time may be slow. For anything urgent please don't hesitate to contact me including on my mobile phone number, which you can ask me for. During the summer when my kids are home from school (mid-June through August) I will not be in the lab all day every day. Some days I will be in for a while and other days I may not be, depending on my kids' schedule. I am available electronically so please get in touch when you need to. I will do my best in the summer months to set up regular meetings, either in person or electronically, so that we can together make sure your work is progressing.
 
 # Lab Meetings
 
-- We have a regular lab meeting "just us" (just the Gribble Lab) Tuesdays 11:30 am-12:30 pm
-- We usually also meet Wednesday afternoons with the Pruszynski lab and the Diedrichsen lab for shared "superlab" meetings & journal clubs; the exact time & location may change from year to year
-- Lab meetings (shared and on our own) are a great opportunity to get feedback and constructive criticism on new or ongoing projects, in a supportive and safe environment
-- Reading and discussing papers outside of one's specialty is a good thing, it helps to broaden your perspective and it can result in new ideas
+We have a regular lab meeting "just us" (just the Gribble Lab) Tuesdays 11:30 am-12:30 pm. We usually also meet Wednesday afternoons with the Pruszynski lab and the Diedrichsen lab for shared "superlab" meetings & journal clubs; the exact time & location may change from year to year. Lab meetings (shared and on our own) are a great opportunity to get feedback and constructive criticism on new or ongoing projects, in a supportive and safe environment. Reading and discussing papers outside of one's specialty is a good thing, it helps to broaden your perspective and it can result in new ideas
 
 # Research Ethics Protocols
 
-- all experiments must have approval from Western's Research Ethics Board (REB)
-- each of you is responsible for obtaining an REB approval for your study/studies
-- you are responsible for keeping detailed records of each research participant including receipts for payment of subject fees
-- getting a study approved can sometimes take several months so start early
-- better to submit early and submit revisions than wait until your study design is perfected
-- all protocols and approvals are to be stored in a shared folder in the Gribble Lab Dropbox
+All experiments must have approval from Western's Research Ethics Board (REB). Each of you is responsible for obtaining an REB approval for your study/studies. You are responsible for keeping detailed records of each research participant including receipts for payment of subject fees. Getting a study approved can sometimes take several months so start early. It's better to submit early and submit revisions than wait until your study design is perfected. All protocols and approvals are to be stored in a shared folder in the Gribble Lab Dropbox.
 
 # Travel to Conferences
 
-- travel to conferences is dependent from year to year on our lab budget
-- generally, our model is, you should present a poster or give a talk if you are attending a meeting
-- if budget permits, our standard model is: everyone goes to SFN and to NCM each year
-- if there is another meeting or meetings that you would like to attend, you should be presenting your work, and you'll need to ask me if the lab budget permits it
-- if the lab budget gets tight, we may have to restrict travel to 1 meeting per year, and/or only when you are presenting a poster or giving a talk (as first author)
+Travel to conferences is dependent from year to year on our lab budget. Generally our model is, you should present a poster or give a talk if you are attending a meeting. If budget permits, our standard model is that everyone goes to SFN and to NCM each year. If there is another meeting or meetings that you would like to attend, you should be presenting your work, and you'll need to ask me if the lab budget permits it. If the lab budget gets tight, we may have to restrict travel to 1 meeting per year, and/or only when you are presenting a poster or giving a talk (as first author).
 
 # Purchasing & Lab Supplies
 
-- All purchases using research accounts must comply with both University and Tri-Council rules about eligible expenses. If there is any doubt, ask me. The simple rule is, all purchases must be directly related to research activities.
-- You can use your own money to buy things, and then submit an expense report afterwards to get reimbursed (it typically takes 7--10 days to see the money in your account)
-- If the vendor supports it you can also use one of the lab's speed-codes to directly charge one of our research grants. Ask me for the appropriate speedcode to use
+All purchases using research accounts must comply with both University and Tri-Council rules about eligible expenses. If there is any doubt, ask me. The simple rule is, all purchases must be directly related to research activities. You can use your own money to buy things, and then submit an expense report afterwards to get reimbursed (it typically takes 7--10 days to see the money in your account). If the vendor supports it you can also use one of the lab's speed-codes to directly charge one of our research grants. Ask me for the appropriate speedcode to use.
 
 # Software & Computers
 
-- We mostly use computers running MacOS or Linux. Having said that if you want to run Windows, that's fine too, but just know that I can't help, I know nothing about Windows
-- Our lab research accounts can support buying one computer per trainee. This can be a desktop or a laptop (plus external display(s), additional external storage/backup, and keyboard & mouse)
-- Western has a site license for MATLAB and for Microsoft Office
-- As a rule we all use Google Docs and Paperpile for writing manuscripts, abstracts, etc. though markdown and/or LaTeX is also encouraged.
-- In general, if there is a piece of software you need for your work, we can buy it using our research account(s). Come and see me and I will likely approve the purchase.
+We mostly use computers running MacOS or Linux. Having said that if you want to run Windows, that's fine too, but just know that I can't help, I know nothing about Windows. Our lab research accounts can support buying one computer per trainee. This can be a desktop or a laptop (plus external display(s), additional external storage/backup, and keyboard & mouse). Western has a site license for MATLAB and for Microsoft Office. As a rule we all use Google Docs and Paperpile for writing manuscripts, abstracts, etc. though markdown and/or LaTeX is also encouraged. In general, if there is a piece of software you need for your work, we can buy it using our research account(s). Come and see me and I will likely approve the purchase.
 
 # Research Data
 
-- We use Dropbox Business to store and share all of our research-related documents and data. If you haven't received an invitation for an sign-up, let me know and I'll send it to you
-- Our Dropbox Business accounts allow for unlimited data storage
-- Use your Dropbox Business account **ONLY** for lab-related data and files
-- **Do not use the Dropbox Business account to store personal data or personal files**
-- **DO NOT STORE ILLEGALLY ACQUIRED DIGITAL FILES, DATA, MOVIES, or MUSIC ON OUR DROPBOX BUSINESS ACCOUNT**
-- **DO NOT STORE ANY PERSONAL or ILLICIT or PORNOGRAPHIC or otherwise QUESTIONABLE DATA, FILES, or MEDIA ON OUR DROPBOX BUSINESS ACCOUNT**
-- In addition, everyone should purchase (you can file an expense report and get reimbursed) an external hard drive to store an extra copy of your research-related documents and data, off-site (e.g. at home). It is critical to maintain an off-the-cloud, off-lab-site archive of your data, documents and code.
+We use Dropbox Business to store and share all of our research-related documents and data. If you haven't received an invitation for an sign-up, let me know and I'll send it to you. Our Dropbox Business accounts allow for unlimited data storage. Use your Dropbox Business account **ONLY** for lab-related data and files. 
+
+**Do not use the Dropbox Business account to store personal data or personal files**. **DO NOT STORE ILLEGALLY ACQUIRED DIGITAL FILES, DATA, MOVIES, or MUSIC ON OUR DROPBOX BUSINESS ACCOUNT**. **DO NOT STORE ANY PERSONAL or ILLICIT or PORNOGRAPHIC or otherwise QUESTIONABLE DATA, FILES, or MEDIA ON OUR DROPBOX BUSINESS ACCOUNT**.
+
+In addition, everyone should purchase (you can file an expense report and get reimbursed) an external hard drive to store an extra copy of your research-related documents and data, off-site (e.g. at home). It is critical to maintain an off-the-cloud, off-lab-site archive of your data, documents and code.
 
 # Lab RAID Archive
 
-- We have a 15 TB RAID array that we use to archive lab-related data and documents. The idea is long-term, in-house, on-site archival storage of lab related data and documents. The RAID array is located in the server room at the BMI. You should all have login accounts on it so that you can access it remotely, to store and retrieve your files as necessary. If you need a login account or you have lost your password please come and see me.
-- The archive is automatically mirrored off-site, every night.
-- The purpose of the RAID Archive is to act as an in-house archive repository of all lab data and documents. You should deposit all raw data, experiment scripts and programs, data analysis scripts and processed data on the Archive.
-- As with your Dropbox Business account, **DO NOT STORE ILLEGAL or ILLICIT or PERSONAL DATA, MEDIA, or FILES ON THE LAB RAID ARCHIVE**
+We have a 15 TB RAID array that we use to archive lab-related data and documents. The idea is long-term, in-house, on-site archival storage of lab related data and documents. The RAID array is located in the server room at the BMI. You should all have login accounts on it so that you can access it remotely, to store and retrieve your files as necessary. If you need a login account or you have lost your password please come and see me. The archive is automatically mirrored off-site, every night. The purpose of the RAID Archive is to act as an in-house archive repository of all lab data and documents. You should deposit all raw data, experiment scripts and programs, data analysis scripts and processed data on the Archive.
 
-- Only use the lab RAID Archive to store lab-related data and files, **not personal files**
+As with your Dropbox Business account, **DO NOT STORE ILLEGAL or ILLICIT or PERSONAL DATA, MEDIA, or FILES ON THE LAB RAID ARCHIVE**. Only use the lab RAID Archive to store lab-related data and files, **not personal files**.
 
 # Other Information
 
