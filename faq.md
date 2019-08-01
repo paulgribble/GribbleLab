@@ -6,17 +6,17 @@ date: July 29, 2019
 
 # FAQ
 
-This FAQ can be found at: [https://www.gribblelab.org/faq.html](https://www.gribblelab.org/faq.html). A .pdf version can be downloaded from: [https://www.gribblelab.org/faq.pdf](https://www.gribblelab.org/faq.pdf)
+This FAQ can be found at: [`https://www.gribblelab.org/faq.html`](https://www.gribblelab.org/faq.html). A .pdf version can be downloaded from: [`https://www.gribblelab.org/faq.pdf`](https://www.gribblelab.org/faq.pdf)
 
 # Contact Information
 
 - My office is WIRB 4122. Our lab rooms are WIRB 3141, 3133, and 2108
 - My office phone is (519) 661-2111 x82237
 - The lab phone (located in WIRB 3141) is (519) 661-2111 x86185
-- Denise Soanes : <dsoanes4@uwo.ca> : Receptionist : WIRB 3190; x86057
-- Florence Lourdes : <flourdes@uwo.ca> : Administrative Officer : WIRB 3184; x82069
-- Haitao Yang : <htyang@uwo.ca> : System Administrator : WIRB 3176; x82736
-- Derek Quinlan : <dquinla4@uwo.ca> : Technical Staff : WIRB 3178; x87988
+- Denise Soanes : `dsoanes4@uwo.ca` : Receptionist : WIRB 3190; x86057
+- Florence Lourdes : `flourdes@uwo.ca` : Administrative Officer : WIRB 3184; x82069
+- Haitao Yang : `htyang@uwo.ca` : System Administrator : WIRB 3176; x82736
+- Derek Quinlan : `dquinla4@uwo.ca` : Technical Staff : WIRB 3178; x87988
 
 # Lab Culture
 
@@ -200,9 +200,9 @@ We mostly use computers running MacOS or Linux. Having said that if you want to 
 
 # Research Data
 
-We use Dropbox Business to store and share all of our research-related documents and data. If you haven't received an invitation for an sign-up, let me know and I'll send it to you. Our Dropbox Business accounts allow for unlimited data storage. Use your Dropbox Business account **ONLY** for lab-related data and files. 
+We use Dropbox Business to store and share all of our research-related documents and data. If you haven't received an invitation for an sign-up, let me know and I'll send it to you. Our Dropbox Business accounts allow for unlimited data storage. Use your Dropbox Business account **only** for lab-related data and files. 
 
-**Do not use the Dropbox Business account to store personal data or personal files**. **DO NOT STORE ILLEGALLY ACQUIRED DIGITAL FILES, DATA, MOVIES, or MUSIC ON OUR DROPBOX BUSINESS ACCOUNT**. **DO NOT STORE ANY PERSONAL or ILLICIT or PORNOGRAPHIC or otherwise QUESTIONABLE DATA, FILES, or MEDIA ON OUR DROPBOX BUSINESS ACCOUNT**.
+**Do not use the dropbox business account to store personal data or personal files**. **Do not store illegally acquired digital files, data, movies, or music on our Dropbox Business account**. **Do not store any personal or illicit or pornographic or otherwise questionable data, files, or media on our Dropbox Business account**.
 
 In addition, everyone should purchase (you can file an expense report and get reimbursed) an external hard drive to store an extra copy of your research-related documents and data, off-site (e.g. at home). It is critical to maintain an off-the-cloud, off-lab-site archive of your data, documents and code.
 
@@ -210,7 +210,7 @@ In addition, everyone should purchase (you can file an expense report and get re
 
 We have a 15 TB RAID array that we use to archive lab-related data and documents. The idea is long-term, in-house, on-site archival storage of lab related data and documents. The RAID array is located in the server room at the BMI. You should all have login accounts on it so that you can access it remotely, to store and retrieve your files as necessary. If you need a login account or you have lost your password please come and see me. The archive is automatically mirrored off-site, every night. The purpose of the RAID Archive is to act as an in-house archive repository of all lab data and documents. You should deposit all raw data, experiment scripts and programs, data analysis scripts and processed data on the Archive.
 
-As with your Dropbox Business account, **DO NOT STORE ILLEGAL or ILLICIT or PERSONAL DATA, MEDIA, or FILES ON THE LAB RAID ARCHIVE**. Only use the lab RAID Archive to store lab-related data and files, **not personal files**.
+As with your Dropbox Business account, **Do not store illegal or illicit or personal data, media, or files on the lab RAID archive**. Only use the lab RAID archive to store lab-related data and files, **not personal files**.
 
 # Other Information
 
@@ -218,6 +218,6 @@ If there is anything you need to know please get in touch with me, I'm here to h
 
 # Acknowledgements
 
-Portions of the FAQ have been adapted from materials posted on twitter by [\@jenheemstra](https://twitter.com/jenheemstra), [\@PaulMinda1](https://twitter.com/PaulMinda1), [\@jpeele](https://twitter.com/jpeele), [\@mariam_s_aly](https://twitter.com/mariam_s_aly), and others.
+Portions of the FAQ have been adapted from materials posted on twitter by [`@jenheemstra`](https://twitter.com/jenheemstra), [`@PaulMinda1`](https://twitter.com/PaulMinda1), [`@jpeele`](https://twitter.com/jpeele), [`@mariam_s_aly`](https://twitter.com/mariam_s_aly), and others.
 
 ---Paul
