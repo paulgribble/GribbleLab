@@ -108,3 +108,22 @@ pre.src {
   left: 10pt;
 }
 
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px) {
+    .thumbnail_logo img {
+        height:32px;
+        width:auto;
+    }
+    body {
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-bottom: 15px;
+	font-size: 80%;
+        line-height: 1.33;
+    }
+}
+
+
+
+
