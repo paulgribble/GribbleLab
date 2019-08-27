@@ -3,7 +3,7 @@ all:	faq.pdf faq.html
 faq.pdf:	faq.md
 	pandoc -N -s \
 	--toc --toc-depth=1 \
-	-V geometry:margin=1.0in \
+	-V geometry:margin=1.5in \
 	--template=faq_latex.tex \
 	faq.md -o faq.pdf
 
