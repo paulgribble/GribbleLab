@@ -73,10 +73,18 @@ I have a job. I already have a MSc and a PhD. You are not doing your research fo
 Here are some excerpts from a [Twitter thread](https://twitter.com/ibjiyongi/status/1170735309044297728?s=21) by Dr. Chanda Prescod-Weinstein on what research and grad school are, and are not, and how to set up the right expectations to succeed:
 
 > The hardest phase transition for PhD students, I think, is that you are supposed to be working toward competent intellectual independence. That means that your advisor doesn’t solve the problem: you do. You write your grant and fellowship proposals.
+>
+> And in the case of the actual science: it’s not a problem set. There are often not step by step instructions for how to solve the problem. You are finding the instructions and implementing them and sometimes your first through fourth tries fail and it’s no one’s fault.
+>
+> Of course, as in all professions, sometimes your boss is an asshole. But sometimes it’s just hard and not because you’re being abused.
 > 
-> The hardest phase transition for PhD students, I think, is that you are supposed to be working toward competent intellectual independence. That means that your advisor doesn’t solve the problem: you do. You write your grant and fellowship proposals.
-> 
-> The hardest phase transition for PhD students, I think, is that you are supposed to be working toward competent intellectual independence. That means that your advisor doesn’t solve the problem: you do. You write your grant and fellowship proposals.
+> If working at the boundaries of what we know — being confused often and working hard to reduce the confusion — doesn’t sound like fun work, research may not be a fit for you, no matter how well you are being compensated.
+>
+> Research is mostly the part where you are doing the work, not mostly the part where you are presenting known results. If you mostly enjoy presenting neatly packaged results, that’s a different kind of problem solving: scicomm is great and challenging and different from research.
+>
+> Research requires a kind of confidence in your own logic, that you can reason your way to a solution because the solutions are a matter of reasoning. So it requires a flexible intelligence mindset: you can learn the techniques you need to know.
+>
+> But no one is going to do the learning or hard work for you. Nor should they. If your advisor does too much for you, you never become competent to do things on your own. It is a difficult balancing act that is hard to get right.
 > 
 > One of the most important roles of faculty advisors: helping you pick the right problems; topics that are unsolved, do-able in ~3 years, will be of interest to the community and within the student's skill set.
 
