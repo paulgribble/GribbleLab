@@ -70,6 +70,16 @@ I have a job. I already have a MSc and a PhD. You are not doing your research fo
 
 **You should expect me** to make myself available to you at regular intervals (e.g. at *least* once a week) to look at data, talk about your experiment, talk about papers in the literature, etc. You can expect me to provide critical feedback of your research in a supportive manner. I will do my best to support your work by seeking out research grants to fund the lab. I will support your travel to conferences to present your research. You can expect me to do my best to promote a positive, supportive, collaborative research environment in the lab.
 
+Here are some excerpts from a [Twitter thread](https://twitter.com/ibjiyongi/status/1170735309044297728?s=21) by Dr. Chanda Prescod-Weinstein on what research and grad school are, and are not, and how to set up the right expectations to succeed:
+
+> The hardest phase transition for PhD students, I think, is that you are supposed to be working toward competent intellectual independence. That means that your advisor doesn’t solve the problem: you do. You write your grant and fellowship proposals.
+> 
+> The hardest phase transition for PhD students, I think, is that you are supposed to be working toward competent intellectual independence. That means that your advisor doesn’t solve the problem: you do. You write your grant and fellowship proposals.
+> 
+> The hardest phase transition for PhD students, I think, is that you are supposed to be working toward competent intellectual independence. That means that your advisor doesn’t solve the problem: you do. You write your grant and fellowship proposals.
+> 
+> One of the most important roles of faculty advisors: helping you pick the right problems; topics that are unsolved, do-able in ~3 years, will be of interest to the community and within the student's skill set.
+
 ## Undergraduate thesis students
 
 You have 8 months to complete a research project and produce a thesis. This is not a lot of time. When you first arrive in the lab we will work together to decide on a focused, feasible research project that is of mutual interest to us both. You may be paired with a graduate student or postdoctoral fellow in the lab, or you may be paired with me! It depends on the project.
