@@ -214,7 +214,7 @@ All purchases using research accounts must comply with both University and Tri-C
 
 # Software & Computers
 
-We mostly use computers running MacOS or Linux. Having said that if you want to run Windows, that's fine too, but just know that I can't help, I know nothing about Windows. Our lab research accounts can support buying one computer per trainee. This can be a desktop or a laptop (plus external display(s), additional external storage/backup, and keyboard & mouse). Western has a site license for MATLAB and for Microsoft Office. As a rule we all use Google Docs and Paperpile for writing manuscripts, abstracts, etc. though markdown and/or LaTeX is also encouraged. In general, if there is a piece of software you need for your work, we can buy it using our research account(s). Come and see me and I will likely approve the purchase.
+We mostly use computers running MacOS or Linux. Having said that if you want to run Windows, that's fine too, but just know that I can't help, I know nothing about Windows. Our lab research accounts can support buying one computer per trainee. This can be a desktop or a laptop (plus external display(s), additional external storage/backup, and keyboard & mouse). Western has a site license for MATLAB and for Microsoft Office. In general, if there is a piece of software you need for your work, we can buy it using our research account(s). Come and see me and I will likely approve the purchase.
 
 # Research Data
 
