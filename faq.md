@@ -120,13 +120,13 @@ You are responsible for applying for funding to support your salary (e.g. OGS, N
 
 ## Postdoctoral fellows
 
-You will typically have up to a 2 year contract providing salary and benefits during which time your job is to pursue original scientific research, in service of getting a job, either in academia or in the private sector. As a postdoc you are expected to be independent in the lab. There are many scientific and technical resources to draw upon and I am here to help.
+You will typically begin with a 1 or 2 year contract providing salary and benefits during which time your job is to pursue original scientific research, in service of getting a job, either in academia or in the private sector. As a postdoc you are expected to be independent in the lab. There are many scientific and technical resources to draw upon and I am here to help.
 
 I will support the pursuit of any scientific questions that are of mutual interest to us both. Your research is your own and you may take it with you when you leave, and continue to pursue it. This is your chance to pursue a new line of research with the full support of a lab environment around you, without being burdened by the need to apply for grants, teach, or do administration (as you will have to do if you pursue an academic job).
 
 As a postdoc you should embrace the opportunity to take on a mentorship role within our lab and within the Brain and Mind Institute more generally.
 
-You are responsible for applying for funding to support your salary (e.g. OGS, NSERC, CIHR, etc). Typically an initial contract is for 2 years of support from my research grants. In some circumstances this may be extended but this is highly dependent on circumstance.
+You are responsible for applying for funding to support your salary (e.g. OGS, NSERC, CIHR, etc). Typically an initial contract is for 1 or 2 years of support from my research grants. In some cases this may be extended but this is highly dependent on circumstance, budget, etc.
 
 ## Research Assistants
 

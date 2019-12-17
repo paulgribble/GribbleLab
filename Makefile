@@ -18,6 +18,6 @@ clean:
 	/bin/rm -fr faq.pdf faq.html
 
 upload:
-	scp faq.css abby.gribblelab.org:~/gribblelab.org/
-	scp faq.html abby.gribblelab.org:~/gribblelab.org/
-	scp faq.pdf abby.gribblelab.org:~/gribblelab.org/
+	cp faq.css ~/github/paulgribble.github.io/
+	cp faq.html ~/github/paulgribble.github.io/
+	cp faq.pdf ~/github/paulgribble.github.io/
