@@ -224,7 +224,7 @@ Research funds are to be used only for the direct costs of research. Research fu
 
 NSERC publishes a [Use of Grant Funds](https://www.nserc-crsng.gc.ca/Professors-Professeurs/FinancialAdminGuide-guideAdminFinancier/FundsUse-UtilisationSubventions_eng.asp) document which goes into some detail about what are eligible expenses against grant funds, and what expenditures are not eligible. If you are unsure about what may or may not be an eligible expense, please ask me.
 
-Misuse of research grant funds is a very serious sitaution. You will be faced with severe consequences. Do not do it.
+Misuse of research grant funds is a very serious offence. You will face severe consequences. Do not do it.
 
 # Research Ethics Protocols
 
