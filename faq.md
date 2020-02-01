@@ -64,30 +64,6 @@ If you do not regard your research project as your own, you will not be excited 
 
 I have a job. I already have a MSc and a PhD. You are not doing your research for me. (Note that in some labs, trainees are hired specifically to work on particular projects that appear in funded research grants. This is not my approach.) Sure, I have a general research program in my lab that is supported by research grants that contain proposals about particular experiments... but my approach is that as long as the research is in the same general realm and as long as we both find it exciting and relevant, I will support it and I will support you.
 
-## Scientific Misconduct
-
-The Office of Research Integrity at the U.S. Dept. of Health and Human Services provides a [definition of research misconduct](https://ori.hhs.gov/definition-misconduct):
-
-    Research misconduct means fabrication, falsification, or plagiarism in proposing, performing, or reviewing research, or in reporting research results.
-
-    (a) Fabrication is making up data or results and recording or reporting them.
-
-    (b) Falsification is manipulating research materials, equipment, or processes, or changing or omitting data or results such that the research is not accurately represented in the research record.
-
-    (c) Plagiarism is the appropriation of another person's ideas, processes, results, or words without giving appropriate credit.
-
-    (d) Research misconduct does not include honest error or differences of opinion.
-
-Scientific misconduct of any kind will not be tolerate in our lab. We are in a priviledged position, to spend our time working towards understanding how the world works. We have a responsibility to conduct ourselves with integrity and transparency.
-
-We will treat scientific misconduct of any kind very seriously, and you will face severe consequences. Do not do it.
-
-## Responsible use of Research Funds
-
-Research funds are to be used only for the direct costs of research. Research funds may not be used for personal expenses. NSERC publishes a [Use of Grant Funds](https://www.nserc-crsng.gc.ca/Professors-Professeurs/FinancialAdminGuide-guideAdminFinancier/FundsUse-UtilisationSubventions_eng.asp) document which goes into some detail about what are eligible expenses against grant funds, and what expenditures are not eligible. If you are unsure about what may or may not be an eligible expense, please ask me.
-
-Misuse of research grant funds is a very serious sitaution. You will be faced with severe consequences. Do not do it.
-
 ## General expectations
 
 **I expect you** to please come to me if you are not sure what you should be doing day to day. Let me know if you are concerned about the progress of your project. Please come to me often with data. Show me plots. Show me sample signals. Get feedback from me and others about how the project is progressing. You should look at your data often, in particular to make sure that the various signals (kinematics, forces, EMG, EEG, etc) look as they should, and to make sure that participants are performing the task as we require.
@@ -222,7 +198,33 @@ During the regular term I am generally around all the time and available to chat
 
 # Lab Meetings
 
-We have a regular lab meeting "just us" (just the Gribble Lab) Tuesdays 11:30 am-12:30 pm. We usually also meet Wednesday afternoons with the Pruszynski lab and the Diedrichsen lab for shared "superlab" meetings & journal clubs; the exact time & location may change from year to year. Lab meetings (shared and on our own) are a great opportunity to get feedback and constructive criticism on new or ongoing projects, in a supportive and safe environment. Reading and discussing papers outside of one's specialty is a good thing, it helps to broaden your perspective and it can result in new ideas
+We have a regular lab meeting "just us" (just the Gribble Lab) Tuesdays 11:30 am-12:30 pm. We usually also meet Wednesday afternoons with the Pruszynski lab and the Diedrichsen lab for shared "superlab" meetings & journal clubs; the exact time & location may change from year to year. Lab meetings (shared and on our own) are a great opportunity to get feedback and constructive criticism on new or ongoing projects, in a supportive and safe environment. Reading and discussing papers outside of one's specialty is a good thing, it helps to broaden your perspective and it can result in new ideas.
+
+# Scientific Misconduct
+
+The Office of Research Integrity at the U.S. Dept. of Health and Human Services provides a [definition of research misconduct](https://ori.hhs.gov/definition-misconduct):
+
+> Research misconduct means fabrication, falsification, or plagiarism in proposing, performing, or reviewing research, or in reporting research results.
+> 
+> (a) Fabrication is making up data or results and recording or reporting them.
+> 
+> (b) Falsification is manipulating research materials, equipment, or processes, or changing or omitting data or results such that the research is not accurately represented in the research record.
+>
+> (c) Plagiarism is the appropriation of another person's ideas, processes, results, or words without giving appropriate credit.
+> 
+> (d) Research misconduct does not include honest error or differences of opinion.
+
+Scientific misconduct of any kind will not be tolerated in our lab. We are in a priviledged position, to spend our time working towards understanding how the world works. We have a responsibility to conduct ourselves with integrity and transparency.
+
+We will treat scientific misconduct of any kind very seriously, and you will face severe consequences. Do not do it.
+
+# Responsible use of Research Funds
+
+Research funds are to be used only for the direct costs of research. Research funds may not be used for personal expenses. 
+
+NSERC publishes a [Use of Grant Funds](https://www.nserc-crsng.gc.ca/Professors-Professeurs/FinancialAdminGuide-guideAdminFinancier/FundsUse-UtilisationSubventions_eng.asp) document which goes into some detail about what are eligible expenses against grant funds, and what expenditures are not eligible. If you are unsure about what may or may not be an eligible expense, please ask me.
+
+Misuse of research grant funds is a very serious sitaution. You will be faced with severe consequences. Do not do it.
 
 # Research Ethics Protocols
 

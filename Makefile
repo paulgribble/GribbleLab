@@ -2,14 +2,14 @@ all:	faq.pdf faq.html
 
 faq.pdf:	faq.md
 	pandoc -N -s \
-	--toc --toc-depth=1 \
+	--toc --toc-depth=2 \
 	-V geometry:margin=1.5in \
 	--template=faq_latex.tex \
 	faq.md -o faq.pdf
 
 faq.html:	faq.md
 	pandoc -N -s \
-	--toc --toc-depth=1 \
+	--toc --toc-depth=2 \
 	--css faq.css \
 	faq.md -o faq.html
 
