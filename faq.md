@@ -28,9 +28,9 @@ I want our lab to be a collaborative environment in which we can all feel safe t
 
 I am not a perfect person and I make mistakes. If something is bothering you about something I have done or said, or not done or not said, I hope you will feel comfortable bringing it to me.
 
-# Equity & Diversity
+# Equity, Diversity & Inclusion
 
-We are committed to supporting and promoting equity and diversity in our lab. Diversity is not a challenge to be overcome or a difficulty to be tolerated, it is a tremendous source of strength. We are stronger when we embrace different backgrounds, perspectives and approaches, in our lab and in our community. Everyone is welcome in our lab, regardless of race, nationality, religion, gender, sexual orientation, age, or disability. In our lab we are respectful of each other. We don't tolerate harassment, belittlement, bullying, or discrimination of any kind.
+We are committed to supporting and promoting equity, diversity, and inclusion. Diversity is not a challenge to be overcome or a difficulty to be tolerated, it is a tremendous source of strength. We recognize that we are stronger when we embrace different backgrounds, perspectives and approaches, in our lab and in our community. Everyone is welcome and will be supported in our lab, regardless of race, nationality, religion, gender, sexual orientation, age, or disability. Together with Western, the Brain and Mind Institute at Western, and BrainsCAN, we are dedicated to increasing the inclusion and advancement of women, and other under-represented groups in science and engineering. In our lab we commit to be respectful of each other. We do not tolerate harassment, belittlement, bullying, or discrimination of any kind. We are committed to learning more about how to promote the principles of equity, diversity, and inclusion both in our lab, on campus, and in the scientific community.
 
 # Conflict resolution
 
