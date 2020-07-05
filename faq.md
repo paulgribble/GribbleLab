@@ -18,6 +18,14 @@ This FAQ can be found at: [`https://www.gribblelab.org/faq.html`](https://www.gr
 - Haitao Yang : `htyang@uwo.ca` : System Administrator : WIRB 3176; x82736
 - Derek Quinlan : `dquinla4@uwo.ca` : Technical Staff : WIRB 3178; x87988
 
+# Onboarding
+
+Ask Paul to set you up with accounts on:
+
+- the lab Slack is at sensorimotor.slack.com
+- the lab Dropbox with unlimited storage
+- our local RAID array for on-site storage & backup
+
 # Lab Culture
 
 I want everyone in the lab to feel valued and welcome. We have a diverse group of people who bring different skills, personal backgrounds, and strengths. We all have different academic backgrounds as well. Some come from a Psychology tradition, some from Physiology or Biology, some from Kinesiology, some from Engineering, etc. I am happy all of you are here, I care about you as human beings, and I want you to feel happy to be here and excited about your work.
