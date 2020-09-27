@@ -6,7 +6,7 @@ date: 5 July 2020
 
 # FAQ
 
-This FAQ can be found at: [`https://www.gribblelab.org/faq.html`](https://www.gribblelab.org/faq.html). A .pdf version can be downloaded from: [`https://www.gribblelab.org/faq.pdf`](https://www.gribblelab.org/faq.pdf)
+This FAQ is found at: [`https://www.gribblelab.org/faq.html`](https://www.gribblelab.org/faq.html).
 
 # Contact Information
 

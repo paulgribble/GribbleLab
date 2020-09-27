@@ -1,4 +1,10 @@
-all:	faq.pdf faq.html
+all:	faq.html
+
+faq.html:	faq.md
+	pandoc -N -s \
+	--toc --toc-depth=2 \
+	--css faq.css \
+	faq.md -o faq.html
 
 faq.pdf:	faq.md
 	pandoc -N -s \
@@ -7,17 +13,9 @@ faq.pdf:	faq.md
 	--template=faq_latex.tex \
 	faq.md -o faq.pdf
 
-faq.html:	faq.md
-	pandoc -N -s \
-	--toc --toc-depth=2 \
-	--css faq.css \
-	faq.md -o faq.html
-
-
 clean:	
 	/bin/rm -fr faq.pdf faq.html
 
 upload:
 	cp faq.css ~/github/paulgribble.github.io/
 	cp faq.html ~/github/paulgribble.github.io/
-	cp faq.pdf ~/github/paulgribble.github.io/
