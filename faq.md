@@ -200,7 +200,9 @@ While you're waiting for feedback, don't stop working on your document!  When yo
 
 # Lab Rooms
 
-Lab rooms are booked using a Google Calendar. Contact me to get an invitation.
+## Room Reservations
+
+Lab rooms are booked using the BMI Resource Booking System: [https://bmicalendar.ssc.uwo.ca](https://bmicalendar.ssc.uwo.ca). Log in using your Western credentials. If you have problems logging in, please contact Haitao Yang (htyang@uwo.ca).
 
 For urgent matters or emergencies related to facilities (e.g. a water leak) please contact me and/or Florence, Denise, or Haitao right away.
 
