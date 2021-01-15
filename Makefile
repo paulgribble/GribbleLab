@@ -3,7 +3,7 @@ all:	faq.html
 faq.html:	faq.md
 	pandoc -N -s \
 	--toc --toc-depth=2 \
-	--css faq.css \
+	--css css/faq.css \
 	faq.md -o faq.html
 
 faq.pdf:	faq.md
