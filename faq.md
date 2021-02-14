@@ -246,9 +246,17 @@ Misuse of research grant funds is a very serious offence. You will face severe c
 
 All experiments must have approval from Western's Research Ethics Board (REB). Each of you is responsible for obtaining an REB approval for your study/studies. You are responsible for keeping detailed records of each research participant including receipts for payment of subject fees. Getting a study approved can sometimes take several months so start early. It's better to submit early and submit revisions than wait until your study design is perfected. All protocols and approvals are to be stored in a shared folder in the Gribble Lab Dropbox.
 
-# Travel to Conferences
+# Conferences & Scientific Meetings
 
 Travel to conferences is dependent from year to year on our lab budget. Generally our model is, you should present a poster or give a talk if you are attending a meeting. If budget permits, our standard model is that everyone goes to SFN and to NCM each year. If there is another meeting or meetings that you would like to attend, you should be presenting your work, and you'll need to ask me if the lab budget permits it. If the lab budget gets tight, we may have to restrict travel to 1 meeting per year, and/or only when you are presenting a poster or giving a talk (as first author).
+
+## Conference Abstracts
+
+You will need to show me your draft abstracts, posters, etc, well in advance of the conference deadline, as typically we will require several edits before they are ready to submit. I would like to see your final draft at least one week before the conference deadline.
+
+## Conference Talks
+
+For talks, you should have a complete talk prepared at least two weeks before the meeting (if not more), so that you can give one or more practice talks to our lab group, and make adjustements in advance of the meeting.
 
 # Purchasing & Lab Supplies
 
