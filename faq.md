@@ -214,7 +214,7 @@ During the regular term I am generally around all the time and available to chat
 
 # Lab Meetings
 
-We have a regular lab meeting "just us" (just the Gribble Lab) Tuesdays 11:30 am-12:30 pm. We usually also meet Wednesday afternoons with the Pruszynski lab and the Diedrichsen lab for shared "superlab" meetings & journal clubs; the exact time & location may change from year to year. Lab meetings (shared and on our own) are a great opportunity to get feedback and constructive criticism on new or ongoing projects, in a supportive and safe environment. Reading and discussing papers outside of one's specialty is a good thing, it helps to broaden your perspective and it can result in new ideas.
+We have a regular lab meeting "just us" (just the Gribble Lab) at least once every month. We usually also meet most weeks with the Pruszynski lab and the Diedrichsen lab for shared "superlab" meetings & journal clubs; the exact time & location may change from year to year. Lab meetings (shared and on our own) are a great opportunity to get feedback and constructive criticism on new or ongoing projects, in a supportive and safe environment. Reading and discussing papers outside of one's specialty is a good thing, it helps to broaden your perspective and it can result in new ideas.
 
 # Scientific Misconduct
 
