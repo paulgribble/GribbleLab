@@ -17,5 +17,4 @@ clean:
 	/bin/rm -fr faq.pdf faq.html
 
 upload:
-	cp faq.css ~/github/paulgribble.github.io/
 	cp faq.html ~/github/paulgribble.github.io/
